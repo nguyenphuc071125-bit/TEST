@@ -1,0 +1,1 @@
+print("Manh dep trai s1tg")
